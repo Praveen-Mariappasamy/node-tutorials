@@ -1,0 +1,5 @@
+//const data=require('./secmodulle')
+//const say = require('./globals.js')
+//say('peter')
+//console.log(data)
+require('./app.js')
